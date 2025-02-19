@@ -1,0 +1,1 @@
+net use z: \\santino\dasd Ebcdic370

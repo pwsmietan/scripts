@@ -1,0 +1,1 @@
+xcopy GoScanV%1*.exe y:\GoScanBuilds /y

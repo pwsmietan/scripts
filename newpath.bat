@@ -1,0 +1,1 @@
+set path=%path%;d:\bin;d:\bat;c:\progra~2\winrar

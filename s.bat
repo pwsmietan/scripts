@@ -1,0 +1,3 @@
+d:
+cd\bat
+modpath
